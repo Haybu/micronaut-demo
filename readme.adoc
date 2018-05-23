@@ -1,0 +1,8 @@
+== Micronaut HelloWorld Sample
+
+* Currently no dependencies published yet, I followed the instructions at Micronaut https://github.com/micronaut-projects/micronaut-core[GitHub]
+repository to build the core and install the dependencies locally.
+
+* I then executed: mn create-app micronaut-demo --build maven
+
+* created then a controller and defined a port in application.yml
